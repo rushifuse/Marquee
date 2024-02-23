@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.marq{
+    background-color: green;
+margin-top: 10px;
+margin-left: 10px;
+margin-right: 10px;
+
+height: 150px;
+
+}
+.div0{
+    margin-top: 30px;
+}
+
+.div1{
+    font-size: 40px;
+    font-weight: bold;
+    color: white;
+  
+
+}
+.div2{
+    font-size: 30px;
+    color: black;
+}
+.div1:hover{
+
+    color: red;
+
+}
